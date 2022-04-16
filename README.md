@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/poonam-chauhan-64a97159/)](ttps://www.linkedin.com/in/poonam-chauhan-64a97159/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
+[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/poonam-chauhan-64a97159/)](ttps://www.linkedin.com/in/poonam-chauhan-64a97159/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 
 I'm
 Full Stack Solution Architect
